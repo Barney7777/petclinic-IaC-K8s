@@ -1,0 +1,11 @@
+.terraform
+.terraform.lock.hcl
+01-add-iam-user-to-eks
+02-HPA
+03-service-account
+modules
+root
+04-ingress
+05-ebs-csi-driver
+06-secrets-manager
+07-user-mgt
